@@ -11,7 +11,6 @@ const { Header, Footer, Sider, Content } = Layout;
 const App = () => {
   return (
     <Layout className="App">
-      <Sider>Sider</Sider>
       <Layout>
         <Header className="header">
           <HeaderMenu />
